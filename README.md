@@ -85,8 +85,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/VinyasSahai02/VinyasSahai02/output/snake.svg" alt="Snake animation" />
 
 ###
