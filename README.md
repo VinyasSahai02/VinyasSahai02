@@ -85,6 +85,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/VinyasSahai02/VinyasSahai02/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/VinyasSahai02/VinyasSahai02/blob/output/github-contribution-grid-snake.svg)
 
 ###
