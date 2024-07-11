@@ -12,6 +12,10 @@
 
 ###
 
+[![An image of @VinyasSahai02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/VinyasSahai02)](https://holopin.io/@VinyasSahai02)
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VinyasSahai02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VinyasSahai02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
